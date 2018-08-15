@@ -1,7 +1,4 @@
-##  前端 mac 工作环境
 ### 我的前端开发环境和工具
-
-----
 #### 必装软件
 - [node](https://nodejs.org/zh-cn/)
 - [git](https://git-scm.com/) 版本控制
