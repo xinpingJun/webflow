@@ -9,6 +9,7 @@
 - [cnpm](https://npm.taobao.org/) 淘宝镜像
 - [yarn](https://yarn.bootcss.com/) 包管理工具 （推荐）
 - [docker](https://www.docker.com/) 容器
+- [insomnia](https://insomnia.rest/download/#mac) 模拟请求
 - [transmit](https://transmit.en.softonic.com/mac?ex=CAT-801.2) mac FTP客户端
 
 > 淘宝镜像设置
