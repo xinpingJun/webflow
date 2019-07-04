@@ -2,16 +2,16 @@
 
 ### 必装软件
 
-- [homebrew](https://brew.sh/) mac 软件 安装工具
-- [node](https://nodejs.org/zh-cn/)
-- [npm](https://nodejs.org/zh-cn/)   node安装 自动生成 npm 环境
+- [homebrew](https://brew.sh/)  软件安装工具（mac）
+- [node](https://nodejs.org/zh-cn/) nodeJS 环境
+- [npm](https://nodejs.org/zh-cn/)     npm包管理工具
 - [git](https://git-scm.com/) 版本控制
-- [svn](https://www.smartsvn.com/) mac svn图形工具
+- [svn](https://www.smartsvn.com/)  svn图形工具（mac）
 - [docker](https://www.docker.com/) 容器
-- [insomnia](https://insomnia.rest/download/#mac) 最直观的跨平台REST 
-- [transmit](https://transmit.en.softonic.com/mac?ex=CAT-801.2) mac FTP客户端
-- [ShadowsocksX](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-> 包管理工具-淘宝镜像设置
+- [insomnia](https://insomnia.rest/download/#mac) 最直观的跨平台REST （mac）
+- [transmit](https://transmit.en.softonic.com/mac?ex=CAT-801.2)  FTP客户端 (mac)
+ 
+> 淘宝镜像设置 (国内环境)
 
 - [cnpm](https://npm.taobao.org/) 淘宝镜像
 - [yarn](https://yarn.bootcss.com/) 包管理工具 （推荐）
@@ -35,7 +35,7 @@
 
 - [vscode](https://code.visualstudio.com/) （推荐）  
 - [dcloud](https://www.dcloud.io/)  （开发uni-app使用）
-- [atom](https://atom.io/) 
+- [atom](https://atom.io/) （mac）
 - [WebStrom](https://www.jetbrains.com/webstorm/)  IDE
 
 #### 技术栈
@@ -47,13 +47,13 @@
 - 后端框架
   - [nestJs](https://exlley.gitbooks.io/nest-js/content/)
 - 小程序
+  - [官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/) 
   - [uni-app](https://uniapp.dcloud.io/) （vue小程序框架）
   - [taro](https://taro.aotu.io/) (react小程序框架)
-  - [官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/) 
 - 移动端
   - [有赞移动端框架](https://youzan.github.io/vant/#/zh-CN/style)  (vue)
 - PC
-  - [iview](https://www.iviewui.com/)(vue)
+  - [iview](https://www.iviewui.com/)(vue) 
 - 脚手架/工作流
   - [vue-cli](https://cli.vuejs.org/) vue 脚手架 （推荐）
   - [weflow](https://weflow.io/) 微信团队开发前端工作流 (桌面端)
@@ -62,10 +62,10 @@
   - [legoflow-cli](https://github.com/legoflow/legoflow-cli)   (命令行) （推荐）
   - [create-react-app](https://github.com/facebook/create-react-app) react 脚手架
 
-
 ### 常用工具列表
 
 - [iTerm2](https://www.iterm2.com/) mac终端工具
+
 > 性能测试
 - [Tracker.js](https://ucren.com/tracker/docs/#quickstart)
 - [gtmetrix](https://gtmetrix.com/ )
