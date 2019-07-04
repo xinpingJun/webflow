@@ -81,3 +81,4 @@
 - [awesomes](https://www.awesomes.cn/)  
 > 数据模拟
 - [getpostman](https://www.getpostman.com/)  
+- [mysql 国内下载镜像](http://mirrors.sohu.com/mysql/) 
