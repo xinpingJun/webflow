@@ -4,11 +4,11 @@
 
 - [homebrew](https://brew.sh/)  软件安装工具（mac）
 - [node](https://nodejs.org/zh-cn/) nodeJS 环境
-- [npm](https://nodejs.org/zh-cn/)     npm包管理工具
+- [npm](https://nodejs.org/zh-cn/)  npm包管理工具
 - [git](https://git-scm.com/) 版本控制
 - [svn](https://www.smartsvn.com/)  svn图形工具（mac）
 - [docker](https://www.docker.com/) 容器
-- [insomnia](https://insomnia.rest/download/#mac) 最直观的跨平台REST （mac）
+- [insomnia](https://insomnia.rest/download/#mac)  跨平台REST （mac）
 - [transmit](https://transmit.en.softonic.com/mac?ex=CAT-801.2)  FTP客户端 (mac)
  
 > 淘宝镜像设置 (国内环境)
@@ -46,6 +46,7 @@
   - [react](https://react.docschina.org/)
 - 后端框架
   - [nestJs](https://exlley.gitbooks.io/nest-js/content/)
+  - [swagger](https://swagger.io/) (API文档工具)
 - 小程序
   - [官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/) 
   - [uni-app](https://uniapp.dcloud.io/) （vue小程序框架）
@@ -63,9 +64,8 @@
   - [create-react-app](https://github.com/facebook/create-react-app) react 脚手架
 
 ### 常用工具列表
-
-- [iTerm2](https://www.iterm2.com/) mac终端工具
-
+> 终端工具
+- [iTerm2](https://www.iterm2.com/) 
 > 性能测试
 - [Tracker.js](https://ucren.com/tracker/docs/#quickstart)
 - [gtmetrix](https://gtmetrix.com/ )
@@ -79,6 +79,5 @@
 - [nodejs](http://nodejs.cn/)  
 > 前端开发库
 - [awesomes](https://www.awesomes.cn/)  
-- [jvmao](http://jvmao.net/recommend)  
 > 数据模拟
-- [getpostman](https://www.getpostman.com/) 测试请求接口
+- [getpostman](https://www.getpostman.com/)  
