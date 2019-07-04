@@ -45,19 +45,19 @@
 #### 技术栈
 
 ##### 前端框架
-  -[TypeScript](https://www.tslang.cn/)
-  -[vue](https://vuefe.cn/) 
-  -[react](https://react.docschina.org/)
+- [TypeScript](https://www.tslang.cn/)
+- [vue](https://vuefe.cn/) 
+- [react](https://react.docschina.org/)
 ##### 后端框架
-  -[nestJs](https://exlley.gitbooks.io/nest-js/content/)
+- [nestJs](https://exlley.gitbooks.io/nest-js/content/)
 ##### 小程序
-  -[uni-app](https://uniapp.dcloud.io/) （vue小程序框架）
-  -[taro](https://taro.aotu.io/) (react小程序框架)
-  -[官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/) 
+- [uni-app](https://uniapp.dcloud.io/) （vue小程序框架）
+- [taro](https://taro.aotu.io/) (react小程序框架)
+- [官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/) 
 ##### 移动端
-  -[有赞移动端框架](https://youzan.github.io/vant/#/zh-CN/style)  (vue)
+- [有赞移动端框架](https://youzan.github.io/vant/#/zh-CN/style)  (vue)
 ##### PC
-  -[iview](https://www.iviewui.com/)(vue)
+- [iview](https://www.iviewui.com/)(vue)
 
 #### 脚手架/工作流
 - [vue-cli](https://cli.vuejs.org/) vue 脚手架 （推荐）
