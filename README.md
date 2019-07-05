@@ -1,6 +1,6 @@
 #  前端开发环境和工具
 
-### 必装软件
+## 必装软件
 
 - [homebrew](https://brew.sh/)  软件安装工具（mac）
 - [node](https://nodejs.org/zh-cn/) nodeJS 环境
@@ -55,14 +55,13 @@
   - [有赞移动端框架](https://youzan.github.io/vant/#/zh-CN/style)  (vue)
 - PC
   - [iview](https://www.iviewui.com/)(vue) 
-- 脚手架/工作流
+- 脚手架/工作流 
   - [vue-cli](https://cli.vuejs.org/) vue 脚手架 （推荐）
+  - [create-react-app](https://github.com/facebook/create-react-app) react 脚手架
   - [weflow](https://weflow.io/) 微信团队开发前端工作流 (桌面端)
   - [tmt-workflow](https://github.com/Tencent/tmt-workflow) 微信团队开发前端工作流 (命令行)
   - [legoflow](https://legoflow.com)   (桌面端)
   - [legoflow-cli](https://github.com/legoflow/legoflow-cli)   (命令行) （推荐）
-  - [create-react-app](https://github.com/facebook/create-react-app) react 脚手架
-
 ### 常用工具列表
 > 终端工具
 - [iTerm2](https://www.iterm2.com/) 
@@ -89,6 +88,9 @@
 - [渐变色生成工具](https://www.grabient.com/)
 - [css loading代码库](https://epic-spinners.epicmax.co/#/)
 - [在线生成 css 动画](http://animista.net) 
+- [Cool Backgrounds](https://coolbackgrounds.io/) (生成好看的渐变背景图)
+- [Tinypng](https://tinypng.com/) | [智图](http://zhitu.isux.us/) (压缩图片)
+- [Removebg](https://www.remove.bg/) (在线移除背景工具，想改图片的背景可以用这个，证件照必备😀)
 - [简历生成](https://enhancv.com/) 
 - [命令大全](https://www.rdtoc.com/)
 - [印记中文(框架文档)](https://docschina.org/)
