@@ -73,6 +73,7 @@
 - [vue-devtools](https://github.com/vuejs/vue-devtools)  
 - [react-devtools](https://github.com/facebook/react-devtools/)
 > 帮助手册
+- [常用速查表，快速查询各类框架和库的常用方法](https://devhints.io/)
 - [vue](https://vuefe.cn/)
 - [javascript](http://javascript.ruanyifeng.com/)  
 - [es6](http://es6.ruanyifeng.com/)  
@@ -81,4 +82,15 @@
 - [awesomes](https://www.awesomes.cn/)  
 > 数据模拟
 - [getpostman](https://www.getpostman.com/)  
+- 下载镜像
 - [mysql 国内下载镜像](http://mirrors.sohu.com/mysql/) 
+- 其他工具
+- [随机生成logo](http://emblemmatic.org/markmaker/#/) 
+- [渐变色生成工具](https://www.grabient.com/)
+- [css loading代码库](https://epic-spinners.epicmax.co/#/)
+- [在线生成 css 动画](http://animista.net) 
+- [简历生成](https://enhancv.com/) 
+- [命令大全](https://www.rdtoc.com/)
+- [印记中文(框架文档)](https://docschina.org/)
+- [项目开发时间记录](https://wakatime.com/)
+- [各种编程语言 API 文档](https://devdocs.io/)
