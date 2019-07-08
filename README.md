@@ -43,6 +43,7 @@
   * [Removebg](https://www.remove.bg/) (在线移除背景工具 )
   * [简历生成](https://enhancv.com/) 
   * [项目开发时间记录](https://wakatime.com/)
+  * [生成代码图片](https://carbon.now.sh/)
 
 ## 编辑器/IDE 🆚
 
