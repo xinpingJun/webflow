@@ -37,6 +37,7 @@
   * [渐变色生成工具](https://www.grabient.com/)
   * [css loading代码库](https://epic-spinners.epicmax.co/#/)
   * [在线生成 css 动画](http://animista.net) 
+  * [漂亮的CSS样式集](cssfx.dev)
   * [Cool Backgrounds](https://coolbackgrounds.io/) (生成好看的渐变背景图)
   * [Tinypng](https://tinypng.com/) | [智图](http://zhitu.isux.us/) (压缩图片)
   * [Removebg](https://www.remove.bg/) (在线移除背景工具 )
