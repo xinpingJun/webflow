@@ -11,6 +11,8 @@
 * [svn](https://www.smartsvn.com/)  svn图形工具（mac）
 * [docker](https://www.docker.com/) 容器
 * [microsoft-to-do](https://apps.apple.com/cn/app/microsoft-to-do/id1274495053?mt=12) 待办工具
+* [codelf](https://unbug.github.io/codelf) 变量命名
+
 * [transmit](https://transmit.en.softonic.com/mac?ex=CAT-801.2)  FTP客户端 (mac)
 >  终端工具
   * [iTerm2](https://www.iterm2.com/) 
