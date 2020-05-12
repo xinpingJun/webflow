@@ -13,6 +13,9 @@
 * [microsoft-to-do](https://apps.apple.com/cn/app/microsoft-to-do/id1274495053?mt=12) 待办工具
 * [codelf](https://unbug.github.io/codelf) 变量命名
 * [mddir](https://github.com/JohnByrneRepo/mddir) mddir 生成目录结构图
+* [花裤衩收藏夹](https://panjiachen.github.io/awesome-bookmarks/) 前端相关
+
+
 ```
 yarn add mddir -D
 node node_modules/mddir/src/mddir
